@@ -1,4 +1,4 @@
-# Inventory-Manager
+# Inventory-Manager - A single page web app
 A full stack project. Frontend: ReactJS, backend: SpringBoot REST, DBMS: In-memory H2
 
 Prerequisites:
